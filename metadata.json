@@ -1,0 +1,6 @@
+{
+  "name": "FloraCycle — Pushpa BioPlastic, Biochar & Bio-Pipes",
+  "description": "Animated side-by-side eco-tech showcase presenting Pushpa BioPlastic, Pushpa Biochar, and Bioplastic Pipes from floral waste and renewable materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
